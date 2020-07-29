@@ -41,6 +41,7 @@
     "react/jsx-props-no-spreading": "off",
     "no-alert": "off",
     "react/prop-types": "off",
+    "react/no-array-index-key": "off",
     "react/jsx-filename-extension": [
       1,
       {
