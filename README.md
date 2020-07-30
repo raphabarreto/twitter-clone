@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://github.com/raphabarreto/twitter-clone/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/ecoleta">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/raphabarreto/twitter-clone">
   </a>
 
   <a href="https://github.com/raphabarreto/twitter-clone/blob/master/LICENSE.md">
@@ -58,7 +58,7 @@ Esta aplicação é uma reprodução da interface do [Twitter](https://twitter.c
 
 ---
 
-## 🌐 Frontend
+## 🌐 Resultado
 <h1 align="center">
     <img alt="Twitter Clone" title="#delicinha" src=".github/twitter-clone.png" />
 </h1>
@@ -98,4 +98,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin) graças à [Rocketseat](https://www.youtube.com/watch?v=x4FdZd2-_uU)
+Feito com 💗 by [Raphael Barreto](https://bit.ly/contato-linkedin) graças à [Rocketseat](https://www.youtube.com/watch?v=K-8z_4xvT3o)
